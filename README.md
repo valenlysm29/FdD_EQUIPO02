@@ -9,9 +9,14 @@ Somos el **Equipo 02** del curso **Fundamentos de Diseño 2026-1**, conformado p
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 3: Salud y Bienestar
-- ODS 9: Industria, Innovación e Infraestructura    
-- ODS 13: Acción por el Clima  
+- **ODS 3: Salud y Bienestar**  
+Este objetivo busca garantizar una vida saludable y promover el bienestar en todas las personas. En Perú, todavía existen brechas en el acceso a servicios de salud, especialmente en zonas rurales. Por ejemplo, muchas comunidades alejadas no cuentan con centros médicos cercanos y la anemia infantil sigue siendo un problema importante, afectando a un alto porcentaje de niños menores de 3 años.
+
+- **ODS 9: Industria, Innovación e Infraestructura**  
+Este objetivo promueve el desarrollo de infraestructuras sostenibles y el avance tecnológico. En el Perú, aún hay limitaciones en el acceso a internet, sobre todo en áreas rurales, donde muchas personas no tienen conexión estable. Esto dificulta la educación virtual, el acceso a información y el desarrollo de nuevas oportunidades económicas.
+
+- **ODS 13: Acción por el Clima**  
+Este objetivo busca enfrentar el cambio climático y reducir sus impactos. En Perú, se observan efectos como el retroceso de los glaciares en la cordillera de los Andes y el aumento de fenómenos como lluvias intensas e inundaciones, especialmente durante eventos como El Niño. Estos cambios afectan a la agricultura, el acceso al agua y la vida de muchas comunidades.
 
 ---
 

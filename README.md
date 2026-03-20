@@ -1,4 +1,4 @@
-# Equipo 2X - Fundamentos de Diseño
+# Equipo 02 - Fundamentos de Diseño
 ### Carrera de Ingeniería Ambiental / Informática / Industrial  
 **Universidad Peruana Cayetano Heredia**
 
@@ -17,8 +17,8 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />
-  <em>Figura 1. Fotografía del equipo 0X</em>
+<img width="1408" height="768" alt="imagen_grupo_2" src="/Recursos/Imágenes/GRUPO 2.jpg" />
+  <em>Figura 1. Fotografía del equipo 02</em>
 </p>
 
 ---
@@ -27,8 +27,13 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
+<<<<<<< HEAD
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Rodriguez Zabaleta, Valeria Nicol** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Perez Salvatierra, María Fernanda** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+=======
+| <img src="/Recursos/Imágenes/valeria.jpg" width="90"/> | **Rodriguez Zavaleta, Valeria Nicole** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="![SOo](https://github.com/user-attachments/assets/1f03a60e-405d-4068-8b2e-d80468c1a3b8)" width="90"/> | **Perez Salvatierra, María Fernanda** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+>>>>>>> 12a8ba9 (cambios de vale)
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Canchari de la Cruz, Ayme** | Diseñadora | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/Jose Antonio.jpg" width="90"/> | **Mamani Tello, Jose Antonio** | Encargado de documentación | Comunicación científica, redacción técnica |
 | <img src="Recursos/Imágenes/dayana.jpeg" width="90"/> | **Espinola Abanto, Rosita Dayana** | Programadora - Modeladora | Programación, análisis de datos, simulación |

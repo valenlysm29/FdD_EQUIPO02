@@ -10,10 +10,10 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
 - **ODS 3: Salud y Bienestar**  
-Este objetivo busca garantizar una vida saludable y promover el bienestar en todas las personas. En Perú, todavía existen brechas en el acceso a servicios de salud, especialmente en zonas rurales. Por ejemplo, muchas comunidades alejadas no cuentan con centros médicos cercanos y la anemia infantil sigue siendo un problema importante, afectando a un alto porcentaje de niños menores de 3 años.
+Este objetivo busca asegurar una vida saludable para todos. En Perú, la anemia infantil sigue siendo un problema importante: alrededor del 40% de niños menores de 3 años la padecen. Además, en zonas rurales muchas personas tienen dificultades para acceder a servicios de salud, lo que genera desigualdades en la atención médica.
 
 - **ODS 9: Industria, Innovación e Infraestructura**  
-Este objetivo promueve el desarrollo de infraestructuras sostenibles y el avance tecnológico. En el Perú, aún hay limitaciones en el acceso a internet, sobre todo en áreas rurales, donde muchas personas no tienen conexión estable. Esto dificulta la educación virtual, el acceso a información y el desarrollo de nuevas oportunidades económicas.
+Este objetivo promueve el desarrollo tecnológico y la infraestructura. En el Perú, aproximadamente el 60% de los hogares tiene acceso a internet, pero en áreas rurales este porcentaje es mucho menor (menos del 30%). Esto limita el acceso a educación, información y oportunidades de desarrollo.
 
 - **ODS 13: Acción por el Clima**  
 Este objetivo busca enfrentar el cambio climático y reducir sus impactos. En Perú, se observan efectos como el retroceso de los glaciares en la cordillera de los Andes y el aumento de fenómenos como lluvias intensas e inundaciones, especialmente durante eventos como El Niño. Estos cambios afectan a la agricultura, el acceso al agua y la vida de muchas comunidades.

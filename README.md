@@ -32,8 +32,9 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_grupo_2" src="/Recursos/Imágenes/GRUPO 2.jpg" />
-  <em>Figura 1. Fotografía del equipo 02</em>
+<img src="Recursos/Imágenes/GRUPO 2.jpg" width="600"/>
+<br>
+<em>Figura 1. Fotografía del equipo 02</em>
 </p>
 
 --- 
@@ -46,7 +47,7 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 | <img src="Recursos/Imágenes/Mafer.jpg" height="110" style="width:85px; object-fit: cover; border-radius: 6px; border: 1px solid #ddd;"/> | **Perez Salvatierra, María Fernanda** | 🔬 Investigación | 🌍 Gestión ambiental, 🌱 desarrollo sostenible, 📊 impacto ambiental |
 | <img src="Recursos/Imágenes/Ayme.jpeg" height="110" style="width:85px; object-fit: cover; border-radius: 6px; border: 1px solid #ddd;"/> | **Canchari de la Cruz, Ayme** | 🎨 Diseño | 🧩 prototipos, ✨ innovación, 🎯 creatividad aplicada |
 | <img src="Recursos/Imágenes/Jose Antonio.jpg" height="110" style="width:85px; object-fit: cover; border-radius: 6px; border: 1px solid #ddd;"/> | **Mamani Tello, Jose Antonio** | 📝 Documentación | 📄 procesos, 📈 mejora continua, ✍️ redacción técnica |
-| <img src="Recursos/Imágenes/dayana.jpeg" height="110" style="width:85px; object-fit: cover; border-radius: 6px; border: 1px solid #ddd;"/> | **Espinola Abanto, Rosita Dayana** | 💻 Programación | 👩‍💻 programación, 📊 datos, 🧠 simulación y sistemas robóticos |
+| <img src="Recursos/Imágenes/rosita.jpeg" height="110" style="width:85px; object-fit: cover; border-radius: 6px; border: 1px solid #ddd;"/> | **Espinola Abanto, Rosita Dayana** | 💻 Programación | 👩‍💻 programación, 📊 datos, 🧠 simulación y sistemas robóticos |
 
 ---
 

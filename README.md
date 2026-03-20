@@ -26,9 +26,7 @@ Este objetivo busca enfrentar el cambio climático y reducir sus impactos. En Pe
   <em>Figura 1. Fotografía del equipo 02</em>
 </p>
 
----
-
-## 👥 Integrantes del Equipo  
+--- 
 
 ## 👥 Integrantes del Equipo  
 

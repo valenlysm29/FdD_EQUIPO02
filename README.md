@@ -10,7 +10,7 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
 - **ODS 3: Salud y Bienestar**  
-Este objetivo busca asegurar una vida saludable para todos. En Perú, la anemia infantil sigue siendo un problema importante: alrededor del 40% de niños menores de 3 años la padecen. Además, en zonas rurales muchas personas tienen dificultades para acceder a servicios de salud, lo que genera desigualdades en la atención médica.
+Este objetivo también se relaciona con el ambiente, ya que la contaminación afecta directamente la salud. En el Perú, más del 90% de la población urbana está expuesta a niveles de contaminación del aire que superan los límites recomendados. Esto provoca enfermedades respiratorias, especialmente en niños y adultos mayores.
 
 - **ODS 9: Industria, Innovación e Infraestructura**  
 Este objetivo promueve el desarrollo tecnológico y la infraestructura. En el Perú, aproximadamente el 60% de los hogares tiene acceso a internet, pero en áreas rurales este porcentaje es mucho menor (menos del 30%). Esto limita el acceso a educación, información y oportunidades de desarrollo.

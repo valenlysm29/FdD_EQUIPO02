@@ -36,9 +36,9 @@ Este objetivo busca enfrentar el cambio climático y reducir sus impactos. En Pe
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/valeria.jpg" width="90"/> | **Rodriguez Zavaleta, Valeria Nicole** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/Imágenes/Mafer.jpg" width="90"/> | **Perez Salvatierra, María Fernanda** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/Ayme.jpeg" width="90"/> | **Canchari de la Cruz, Ayme** | Diseñadora | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/Ayme.jpeg" width="90"/> | **Canchari de la Cruz, Ayme** | Diseñadora | Diseño creativo orientado a soluciones |
 | <img src="/Recursos/Imágenes/Jose Antonio.jpg" width="90"/> | **Mamani Tello, Jose Antonio** | Encargado de documentación | Comunicación científica, redacción técnica |
-| <img src="Recursos/Imágenes/dayana.jpeg" width="90"/> | **Espinola Abanto, Rosita Dayana** | Programadora - Modeladora | Programación, análisis de datos, simulación |
+| <img src="Recursos/Imágenes/rosita.jpeg" width="90"/> | **Espinola Abanto, Rosita Dayana** | Programadora - Modeladora | Programación, análisis de datos y sistemas roboticos|
 
 ---
 

@@ -40,13 +40,13 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 ## 👥 Integrantes del Equipo  
 
-| Foto | Nombre | Rol | Intereses |
-|------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/valeria.jpg" width="90"/> | **Rodriguez Zavaleta, Valeria Nicole** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/Mafer.jpg" width="90"/> | **Perez Salvatierra, María Fernanda** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/Ayme.jpeg" width="90"/> | **Canchari de la Cruz, Ayme** | Diseñadora | Diseño creativo orientado a soluciones |
-| <img src="/Recursos/Imágenes/Jose Antonio.jpg" width="90"/> | **Mamani Tello, Jose Antonio** | Encargado de documentación | Comunicación científica, redacción técnica |
-| <img src="Recursos/Imágenes/rosita.jpeg" width="90"/> | **Espinola Abanto, Rosita Dayana** | Programadora y diseñadora del sistema| Programación, análisis de datos y sistemas roboticos|
+| 📸 Foto | 👤 Nombre | 🎓 Rol | 💡 Intereses |
+|:---:|:------:|:---:|:---------:|
+| <img src="Recursos/Imágenes/valeria.jpg" height="110" style="width:85px; object-fit: cover; border-radius: 6px; border: 1px solid #ddd;"/> | **Rodriguez Zavaleta, Valeria Nicole** | 👑 Líder del equipo | 🌱 Innovación social, 💡 liderazgo, ♻️ sostenibilidad |
+| <img src="Recursos/Imágenes/Mafer.jpg" height="110" style="width:85px; object-fit: cover; border-radius: 6px; border: 1px solid #ddd;"/> | **Perez Salvatierra, María Fernanda** | 🔬 Investigación | 🌍 Gestión ambiental, 🌱 desarrollo sostenible, 📊 impacto ambiental |
+| <img src="Recursos/Imágenes/Ayme.jpeg" height="110" style="width:85px; object-fit: cover; border-radius: 6px; border: 1px solid #ddd;"/> | **Canchari de la Cruz, Ayme** | 🎨 Diseño | 🧩 prototipos, ✨ innovación, 🎯 creatividad aplicada |
+| <img src="Recursos/Imágenes/Jose Antonio.jpg" height="110" style="width:85px; object-fit: cover; border-radius: 6px; border: 1px solid #ddd;"/> | **Mamani Tello, Jose Antonio** | 📝 Documentación | 📄 procesos, 📈 mejora continua, ✍️ redacción técnica |
+| <img src="Recursos/Imágenes/dayana.jpeg" height="110" style="width:85px; object-fit: cover; border-radius: 6px; border: 1px solid #ddd;"/> | **Espinola Abanto, Rosita Dayana** | 💻 Programación | 👩‍💻 programación, 📊 datos, 🧠 simulación y sistemas robóticos |
 
 ---
 

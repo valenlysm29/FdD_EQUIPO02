@@ -31,7 +31,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Perez Salvatierra, María Fernanda** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Canchari de la Cruz, Ayme** | Diseñadora | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/Jose Antonio.jpg" width="90"/> | **Mamani Tello, Jose Antonio** | Encargado de documentación | Comunicación científica, redacción técnica |
-| <img src="Recursos/Imágenes/dayana.jpeg" width="90"/> | **Rosita Espinola** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="Recursos/Imágenes/dayana.jpeg" width="90"/> | **Espinola Abanto, Rosita Dayana** | Programadora - Modeladora | Programación, análisis de datos, simulación |
 
 ---
 

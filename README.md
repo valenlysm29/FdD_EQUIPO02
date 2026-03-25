@@ -74,7 +74,7 @@ En conjunto, el proyecto constituye una solución integral que combina **detecci
   Nuestro objetivo es que los prototipos o soluciones desarrolladas reduzcan la huella de carbono y permitan mitigar efectos locales del cambio climático.  
   📊 **Estadística relevante:** El IPCC (2023) indica que las emisiones globales de CO₂ deben reducirse un 45% para 2030 para limitar el calentamiento a 1.5°C.  
 
-- 🌊 **ODS 14: Vida submarina**  
+- 🌊 **ODS 11: Ciudades y comunidades sostenibles**  
   Buscamos soluciones que eviten la contaminación de cuerpos de agua y promuevan el uso sostenible de recursos hídricos.  
   📊 **Estadística relevante:** La ONU (2022) reporta que aproximadamente 8 millones de toneladas de plástico llegan a los océanos cada año, afectando la vida marina, adermas de la contaminacion de estas.  
 

@@ -100,7 +100,7 @@ A continuación, se presentan proyectos y desarrollos tecnológicos relacionados
 
 | 📸 Imagen | 🧠 Proyecto | 📄 ¿De qué trata? | 🔗 Enlace |
 |:---:|:---|:---|:---:|
-| <img src="Recursos/Imágenes/proyecto1.png" width="150"/> | **Sistema de monitoreo de calidad de agua (Arduino)** | Prototipo basado en sensores que mide parámetros como pH, turbidez y temperatura para evaluar el estado del agua en tiempo real. | [Ver proyecto](https://ejemplo.com) |
+| <img src="Recursos/Imágenes/ejemplo 1.jpg" width="150"/> | **Sistema de monitoreo de calidad de agua (Arduino)** | Prototipo basado en sensores que mide parámetros como pH, turbidez y temperatura para evaluar el estado del agua en tiempo real. | [Ver proyecto](https://github.com/Sandeepkumar-S-18/Smart_wireless_water_meter_with_Web_DB) |
 | <img src="Recursos/Imágenes/proyecto2.png" width="150"/> | **Monitoreo IoT de recursos hídricos** | Sistema que emplea sensores conectados a plataformas digitales para supervisar variables ambientales y visualizar datos de manera remota. | [Ver proyecto](https://ejemplo.com) |
 | <img src="Recursos/Imágenes/proyecto3.png" width="150"/> | **Detección de residuos flotantes en agua** | Propuesta tecnológica que utiliza sensores o visión artificial para identificar residuos sólidos en la superficie de cuerpos de agua. | [Ver proyecto](https://ejemplo.com) |
 | <img src="Recursos/Imágenes/proyecto4.png" width="150"/> | **Sistema de alerta temprana de inundaciones** | Proyecto que emplea sensores de nivel de agua para detectar incrementos críticos y prevenir desbordes o inundaciones. | [Ver proyecto](https://ejemplo.com) |

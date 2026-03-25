@@ -6,7 +6,7 @@
 
 ## 🌍 Descripción del Equipo  
 <p align="justify">
-Somos el **Equipo 02** del curso **Fundamentos de Diseño 2026-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Somos el <strong>Equipo 02</strong> del curso <strong>Fundamentos de Diseño 2026-1</strong>, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 </p>
 

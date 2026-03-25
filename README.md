@@ -66,14 +66,8 @@ En conjunto, el proyecto constituye una solución integral que combina **detecci
   Nuestro equipo busca desarrollar soluciones que promuevan el uso de energías limpias y eficientes, reduciendo el consumo de combustibles fósiles.  
   📊 **Estadística relevante:** Según la Agencia Internacional de Energía (IEA, 2023), más del 80% de la energía mundial sigue proviniendo de fuentes fósiles, lo que contribuye al cambio climático.  
 
-- 🏗️ **ODS 9: Industria, Innovación e Infraestructura**  
-  Queremos implementar prototipos y soluciones tecnológicas que optimicen procesos productivos, reduzcan residuos y mejoren la infraestructura de manera sostenible.  
-  📊 **Estadística relevante:** Según el Banco Mundial (2022), solo el 40% de las industrias en países en desarrollo adoptan tecnologías limpias o innovadoras.  
-
-- 🌱 **ODS 13: Acción por el Clima**  
-  Nuestro objetivo es que los prototipos o soluciones desarrolladas reduzcan la huella de carbono y permitan mitigar efectos locales del cambio climático.  
-  📊 **Estadística relevante:** El IPCC (2023) indica que las emisiones globales de CO₂ deben reducirse un 45% para 2030 para limitar el calentamiento a 1.5°C.  
-
+- 🏗️ **ODS 14: Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos**  
+  
 - 🌊 **ODS 11: Ciudades y comunidades sostenibles**  
   Buscamos soluciones que eviten la contaminación de cuerpos de agua y promuevan el uso sostenible de recursos hídricos.  
   📊 **Estadística relevante:** La ONU (2022) reporta que aproximadamente 8 millones de toneladas de plástico llegan a los océanos cada año, afectando la vida marina, adermas de la contaminacion de estas.  

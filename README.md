@@ -62,9 +62,9 @@ En conjunto, el proyecto constituye una solución integral que combina **detecci
 ## 🎯 Objetivos de Desarrollo Sostenible (ODS) 
 
 
-- ⚡ **ODS 7: Energía asequible y no contaminante**  
-  Nuestro equipo busca desarrollar soluciones que promuevan el uso de energías limpias y eficientes, reduciendo el consumo de combustibles fósiles.  
-  📊 **Estadística relevante:** Según la Agencia Internacional de Energía (IEA, 2023), más del 80% de la energía mundial sigue proviniendo de fuentes fósiles, lo que contribuye al cambio climático.  
+- 💧 **ODS 7: Agua limpia y sanamiento **  
+   Este equipo busca contribuir al cumplimiento del ODS 6, el cual busca garantizar el acceso a agua limpia y su gestión sostenible, enfocándose en reducir la contaminación y proteger los ecosistemas acuáticos. En Lima, este reto es crítico porque el río Rímac abastece a más de 10 millones de personas, pero presenta altos niveles de contaminación, con metales pesados como plomo y arsénico que superan hasta 88 y 203 veces los límites permitidos, además de contaminación biológica. A nivel nacional, la situación se agrava ya que solo el 29% de las aguas residuales son tratadas, lo que contribuye al deterioro del agua. Por ello, el ODS 6 no solo busca mejorar el acceso, sino también la calidad del agua mediante soluciones que permitan monitorear, prevenir y reducir la contaminación.
+  
 
 - 🏗️ **ODS 14: Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos**  
   Aunque el ODS 14 se enfoca en ecosistemas marinos, su cumplimiento depende críticamente de la gestión de los cuerpos de agua urbanos, ya que estos actúan como los principales conductores de contaminantes hacia el mar. Al intervenir en humedales, canales y lagunas, el sistema ataca el problema en la fuente, cumpliendo primordialmente con la Meta 14.1, que busca prevenir y reducir significativamente la contaminación marina de todo tipo, especialmente la originada por actividades terrestres como los residuos sólidos.

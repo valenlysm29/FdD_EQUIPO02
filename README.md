@@ -63,7 +63,8 @@ En conjunto, el proyecto constituye una solución integral que combina **detecci
 
 
 - 💧ODS 6: Agua limpia y sanamiento **
-   Este equipo busca contribuir al cumplimiento del ODS 6, el cual busca garantizar el acceso a agua limpia y su gestión sostenible, enfocándose en reducir la contaminación y proteger los ecosistemas acuáticos. En Lima, este reto es crítico porque el río Rímac abastece a más de 10 millones de personas, pero presenta altos niveles de contaminación, con metales pesados como plomo y arsénico que superan hasta 88 y 203 veces los límites permitidos, además de contaminación biológica. A nivel nacional, la situación se agrava ya que solo el 29% de las aguas residuales son tratadas, lo que contribuye al deterioro del agua. Por ello, el ODS 6 no solo busca mejorar el acceso, sino también la calidad del agua mediante soluciones que permitan monitorear, prevenir y reducir la contaminación.
+
+Este equipo busca contribuir al cumplimiento del ODS 6, el cual busca garantizar el acceso a agua limpia y su gestión sostenible, enfocándose en reducir la contaminación y proteger los ecosistemas acuáticos. En Lima, este reto es crítico porque el río Rímac abastece a más de 10 millones de personas, pero presenta altos niveles de contaminación, con metales pesados como plomo y arsénico que superan hasta 88 y 203 veces los límites permitidos, además de contaminación biológica. A nivel nacional, la situación se agrava ya que solo el 29% de las aguas residuales son tratadas, lo que contribuye al deterioro del agua. Por ello, el ODS 6 no solo busca mejorar el acceso, sino también la calidad del agua mediante soluciones que permitan monitorear, prevenir y reducir la contaminación.
   
 
 - 🏗️ **ODS 14: Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos**  

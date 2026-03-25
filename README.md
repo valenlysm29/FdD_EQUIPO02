@@ -67,7 +67,7 @@ En conjunto, el proyecto constituye una solución integral que combina **detecci
   📊 **Estadística relevante:** Según la Agencia Internacional de Energía (IEA, 2023), más del 80% de la energía mundial sigue proviniendo de fuentes fósiles, lo que contribuye al cambio climático.  
 
 - 🏗️ **ODS 14: Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos**  
-  
+  Aunque el ODS 14 se enfoca en ecosistemas marinos, su cumplimiento depende críticamente de la gestión de los cuerpos de agua urbanos, ya que estos actúan como los principales conductores de contaminantes hacia el mar. Al intervenir en humedales, canales y lagunas, el sistema ataca el problema en la fuente, cumpliendo primordialmente con la Meta 14.1, que busca prevenir y reducir significativamente la contaminación marina de todo tipo, especialmente la originada por actividades terrestres como los residuos sólidos.
 - 🌊 **ODS 11: Ciudades y comunidades sostenibles**  
   Buscamos soluciones que eviten la contaminación de cuerpos de agua y promuevan el uso sostenible de recursos hídricos.  
   📊 **Estadística relevante:** La ONU (2022) reporta que aproximadamente 8 millones de toneladas de plástico llegan a los océanos cada año, afectando la vida marina, adermas de la contaminacion de estas.  

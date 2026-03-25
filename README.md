@@ -7,7 +7,7 @@
 ## 🌍 Descripción del Equipo  
 <p align="justify">
 Somos el <strong>Equipo 02</strong> del curso <strong>Fundamentos de Diseño 2026-1</strong>, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
+Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 </p>
 
 ---
@@ -28,7 +28,7 @@ De esta manera, el sistema no solo permite evaluar el estado del agua, sino tamb
 ---
 
 ## ⚠️ Problematica
-<p align="justify">
+
 La contaminación de los cuerpos de agua urbanos constituye un problema ambiental de alta relevancia, debido a sus efectos sobre la salud de los ecosistemas, la biodiversidad y la calidad de vida de la población. En Lima Metropolitana, esta situación se refleja en espacios como el **río Rímac**, cuya contaminación se ve intensificada por descargas domésticas e industriales, así como por la acumulación de residuos sólidos en distintos tramos de su recorrido.
 
 De forma complementaria, ecosistemas de menor dinámica hídrica, como los **Pantanos de Villa**, presentan una mayor tendencia a la concentración localizada de contaminantes. Esto favorece la formación de focos críticos que deterioran la calidad del agua y afectan a las especies que dependen de este hábitat. Debido a sus características naturales, estos entornos requieren un monitoreo más específico, detallado y localizado.
@@ -38,12 +38,11 @@ Uno de los principales problemas identificados es la falta de sistemas accesible
 Además, muchas de las soluciones existentes se limitan únicamente a la medición aislada de variables, sin integrar herramientas de análisis espacial, prevención de riesgos ni mecanismos complementarios de mitigación. Esta limitación reduce su efectividad frente a una problemática ambiental compleja y multifactorial.
 
 En este contexto, se evidencia la necesidad de desarrollar un sistema integral que no solo permita detectar la contaminación, sino también analizar su distribución en el entorno, anticipar posibles riesgos y contribuir a la aplicación de medidas de mitigación de manera más eficiente.
-</p>
 
 ---
 
 ## 💡 Presentacion de la solución
-<p align="justify">
+
 El proyecto propone el desarrollo de un **sistema inteligente para el monitoreo, análisis y mitigación de la contaminación en cuerpos de agua urbanos**, tales como humedales, lagunas, canales y otros espacios acuáticos de interés ambiental.
 
 La propuesta integra:  
@@ -57,12 +56,11 @@ La información recolectada por estos dispositivos será procesada y representad
 Adicionalmente, el sistema contempla la incorporación de un **módulo de biofiltración**, orientado a mejorar progresivamente la calidad del agua, así como el uso experimental de **microalgas**, tanto por su potencial en la mitigación ambiental como por su interés en la exploración de alternativas de aprovechamiento energético a pequeña escala.
 
 En conjunto, el proyecto constituye una solución integral que combina **detección, monitoreo, análisis, prevención y mitigación**, aportando al desarrollo de tecnologías accesibles para la gestión sostenible de los recursos hídricos.
-</p>
 
 ---
 
 ## 🎯 Objetivos de Desarrollo Sostenible (ODS) 
-<p align="justify">
+
 
 - ⚡ **ODS 7: Energía asequible y no contaminante**  
   Nuestro equipo busca desarrollar soluciones que promuevan el uso de energías limpias y eficientes, reduciendo el consumo de combustibles fósiles.  
@@ -79,7 +77,6 @@ En conjunto, el proyecto constituye una solución integral que combina **detecci
 - 🌊 **ODS 14: Vida submarina**  
   Buscamos soluciones que eviten la contaminación de cuerpos de agua y promuevan el uso sostenible de recursos hídricos.  
   📊 **Estadística relevante:** La ONU (2022) reporta que aproximadamente 8 millones de toneladas de plástico llegan a los océanos cada año, afectando la vida marina, adermas de la contaminacion de estas.  
-</p>
 
 ---
 

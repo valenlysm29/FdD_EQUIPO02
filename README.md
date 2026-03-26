@@ -96,7 +96,7 @@ A continuación, se presentan proyectos y desarrollos tecnológicos relacionados
 | <img src="Recursos/Imágenes/proyecto2.png" width="150"/> | **Monitoreo IoT de recursos hídricos** | Sistema que emplea sensores conectados a plataformas digitales para supervisar variables ambientales y visualizar datos de manera remota. | [Ver proyecto](https://ejemplo.com) |
 | <img src="Recursos/Imágenes/proyecto3.png" width="150"/> | **Detección de residuos flotantes en agua** | Propuesta tecnológica que utiliza sensores o visión artificial para identificar residuos sólidos en la superficie de cuerpos de agua. | [Ver proyecto](https://ejemplo.com) |
 | <img src="Recursos/Imágenes/proyecto4.png" width="150"/> | **Sistema de alerta temprana de inundaciones** | Proyecto que emplea sensores de nivel de agua para detectar incrementos críticos y prevenir desbordes o inundaciones. | [Ver proyecto](https://ejemplo.com) |
-| <img src="Recursos/Imágenes/proyecto5.png" width="150"/> | **Biofiltración con microalgas** | Sistema experimental que utiliza microalgas para reducir contaminantes en el agua y explorar su potencial en sostenibilidad ambiental. | [Ver proyecto](https://ejemplo.com) |
+| <img src="Recursos/Imágenes/proyecto5.png" width="150"/> | **Biofiltración con microalgas** | Sistema experimental que utiliza microalgas para reducir contaminantes en el agua y explorar su potencial en sostenibilidad ambiental. | [Ver proyecto](https://github.com/Ahmed-EGomaa/RDI-PBR) |
 
 <p align="justify">
 A diferencia de los proyectos presentados, la propuesta del equipo integra múltiples funcionalidades en un solo sistema, combinando monitoreo, detección de residuos, análisis espacial y prevención de riesgos, lo que permite una solución más completa e innovadora.

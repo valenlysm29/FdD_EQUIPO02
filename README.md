@@ -152,24 +152,6 @@ En términos de impacto, esta solución representa una alternativa sostenible, d
 
 ---
 
-## 📚 Proyectos similares
-
-<p align="justify">
-A continuación, se presentan proyectos reales relacionados con la captación de niebla y el monitoreo ambiental. Estas referencias permiten contextualizar la propuesta del equipo y evidenciar su aporte innovador.
-</p>
-
-| 📸 Imagen | 🧠 Proyecto | 📄 ¿De qué trata? | 🔗 Enlace |
-|:---:|:---|:---|:---:|
-| <img src="Recursos/Imágenes/proyecto1.png" width="150"/> | **Atrapanieblas en el desierto de Atacama** | Sistema implementado en Chile que utiliza mallas para recolectar agua de la niebla, abasteciendo comunidades en zonas áridas. | [Ver proyecto][(https://www.fogquest.org/projects/chile/](https://www.heliosmx.org/atrapanieblas-en-el-desierto-de-atacama/)) |
-| <img src="Recursos/Imágenes/proyecto2.png" width="150"/> | **Fog Water Collection System (MIT)** | Investigación del MIT que optimiza la captación de agua mediante superficies especiales inspiradas en la naturaleza. | [Ver proyecto](https://news.mit.edu/2013/efficient-fog-harvesting-0423) |
-| <img src="Recursos/Imágenes/proyecto3.png" width="150"/> | **Sistema de monitoreo de calidad del aire con sensores IoT** | Proyecto basado en sensores que mide gases y partículas en el aire en tiempo real mediante plataformas digitales. | [Ver proyecto](https://github.com/openaq/openaq) |
-
-<p align="justify">
-A diferencia de los proyectos presentados, nuestra propuesta integra en un solo sistema la captación de agua atmosférica y el monitoreo de calidad del aire, generando una solución más completa, innovadora y adaptada a la realidad de Lima.
-</p>
-
----
-
 ## 📚 Referencias
 
 - Organización Mundial de la Salud (OMS). (2021). *Air Quality Guidelines*.  

@@ -14,64 +14,110 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 ## 🎯 Introducción
 <p align="justify">
-En la actualidad, los cuerpos de agua ubicados en entornos urbanos se encuentran cada vez más expuestos a procesos de contaminación asociados al crecimiento poblacional, la expansión urbana, las actividades industriales y la inadecuada gestión de residuos. Esta problemática afecta ecosistemas como humedales, lagunas, canales y ríos, comprometiendo la calidad del agua, la biodiversidad y la sostenibilidad de los recursos hídricos.
+La ciudad de Lima, particularmente en distritos como Villa María del Triunfo, presenta una marcada desigualdad en el acceso a recursos básicos, siendo el agua potable uno de los más críticos. En las zonas altas y asentamientos humanos, el abastecimiento es irregular, costoso y, en muchos casos, dependiente de camiones cisterna, lo que limita el desarrollo y la calidad de vida de la población.
+</p>
 
-En Lima Metropolitana, esta situación puede observarse en espacios como los **Pantanos de Villa** y el **río Rímac**, donde la acumulación de residuos sólidos, las descargas contaminantes y las alteraciones en los parámetros fisicoquímicos del agua generan impactos ambientales significativos. Debido a ello, estos entornos constituyen escenarios relevantes para el estudio y la implementación de soluciones tecnológicas orientadas al monitoreo ambiental.
+<p align="justify">
+Paradójicamente, Lima posee una alta humedad ambiental, especialmente durante temporadas de garúa y neblina, recurso que no es aprovechado de manera eficiente. A ello se suma un segundo problema relevante: la contaminación del aire, producto del crecimiento urbano, el tránsito vehicular y la presencia de polvo en zonas no pavimentadas.
+</p>
 
-Uno de los principales desafíos en la gestión de estos sistemas es la limitada disponibilidad de herramientas accesibles que permitan realizar un monitoreo continuo, identificar zonas críticas de contaminación y prevenir riesgos asociados a cambios en el comportamiento del agua. Frente a esta necesidad, surge la propuesta de desarrollar una solución integral que combine tecnología, análisis de datos y sostenibilidad.
-
-El presente proyecto plantea el diseño de un **sistema inteligente de monitoreo ambiental**, que integra tecnologías de sensado ultrasónico para la detección de residuos, sensores fisicoquímicos para evaluar la calidad del agua y un sensor de nivel para registrar variaciones en su altura. Este último componente incorpora una función preventiva, ya que permite detectar incrementos anormales que podrían relacionarse con riesgos de desborde o inundación en determinados entornos.
-
-De esta manera, el sistema no solo permite evaluar el estado del agua, sino también anticipar riesgos y contribuir a una gestión ambiental más eficiente e integral.
+<p align="justify">
+En este contexto, el presente proyecto propone el diseño de un sistema inteligente de captación de niebla con monitoreo de calidad del aire, que permita no solo generar una fuente alternativa de agua, sino también evaluar las condiciones ambientales del entorno. Esta propuesta integra principios de ingeniería, sostenibilidad y tecnología, orientándose a soluciones adaptadas a la realidad local.
 </p>
 
 ---
 
-## ⚠️ Problematica
+## ⚠️ Problemática
 
-La contaminación de los cuerpos de agua urbanos constituye un problema ambiental de alta relevancia, debido a sus efectos sobre la salud de los ecosistemas, la biodiversidad y la calidad de vida de la población. En Lima Metropolitana, esta situación se refleja en espacios como el **río Rímac**, cuya contaminación se ve intensificada por descargas domésticas e industriales, así como por la acumulación de residuos sólidos en distintos tramos de su recorrido.
+<p align="justify">
+En las zonas altas de Villa María del Triunfo y otros sectores periurbanos de Lima se identifican dos problemáticas principales:
+</p>
 
-De forma complementaria, ecosistemas de menor dinámica hídrica, como los **Pantanos de Villa**, presentan una mayor tendencia a la concentración localizada de contaminantes. Esto favorece la formación de focos críticos que deterioran la calidad del agua y afectan a las especies que dependen de este hábitat. Debido a sus características naturales, estos entornos requieren un monitoreo más específico, detallado y localizado.
+### 1. Escasez de agua  
+- Más de un millón de personas en Lima no cuentan con acceso adecuado al agua potable.  
+- Existe dependencia de camiones cisterna, lo que implica **altos costos y baja continuidad del servicio**.  
+- Se generan limitaciones en actividades básicas como higiene, riego y consumo.  
 
-Uno de los principales problemas identificados es la falta de sistemas accesibles que permitan monitorear de manera continua la calidad del agua, detectar residuos sólidos, identificar zonas con mayor nivel de contaminación y registrar cambios en el nivel del agua que puedan representar riesgos potenciales.
+### 2. Contaminación del aire  
+- Presencia de material particulado (PM2.5 y PM10), especialmente en zonas con alta exposición al polvo.  
+- Emisión de gases contaminantes debido al tránsito vehicular y actividades urbanas.  
+- Impacto directo en la salud, principalmente enfermedades respiratorias.  
 
-Además, muchas de las soluciones existentes se limitan únicamente a la medición aislada de variables, sin integrar herramientas de análisis espacial, prevención de riesgos ni mecanismos complementarios de mitigación. Esta limitación reduce su efectividad frente a una problemática ambiental compleja y multifactorial.
+### 🔍 Problema integrador  
 
-En este contexto, se evidencia la necesidad de desarrollar un sistema integral que no solo permita detectar la contaminación, sino también analizar su distribución en el entorno, anticipar posibles riesgos y contribuir a la aplicación de medidas de mitigación de manera más eficiente.
+<p align="justify">
+A pesar de la abundante humedad ambiental presente en forma de neblina o garúa, no existen sistemas accesibles que permitan aprovechar este recurso como fuente alternativa de agua y, simultáneamente, evaluar la calidad del aire del que proviene.
+</p>
+
+<p align="justify">
+Esto genera una doble brecha:
+</p>
+
+- Se desperdicia un recurso natural disponible (neblina).  
+- No se cuenta con información clara sobre la calidad del aire en zonas vulnerables.  
 
 ---
 
-## 💡 Presentacion de la solución
+## 💡 Presentación de la solución  
 
-El proyecto propone el desarrollo de un **sistema inteligente para el monitoreo, análisis y mitigación de la contaminación en cuerpos de agua urbanos**, tales como humedales, lagunas, canales y otros espacios acuáticos de interés ambiental.
+<p align="justify">
+El presente proyecto propone el desarrollo de un <strong>sistema inteligente de captación de niebla con monitoreo de calidad del aire</strong>, diseñado para zonas vulnerables de Lima, como Villa María del Triunfo, donde existe limitada disponibilidad de agua potable y altos niveles de contaminación ambiental.
+</p>
 
-La propuesta integra:  
+<p align="justify">
+La solución se basa en el aprovechamiento de la humedad atmosférica en forma de neblina o garúa, la cual es transformada en agua mediante un sistema de captación física. A diferencia de los sistemas tradicionales de atrapanieblas, esta propuesta incorpora un componente tecnológico que permite evaluar la calidad del aire, generando información ambiental relevante.
+</p>
 
-- un **sensor ultrasónico** para la detección de residuos sólidos;  
-- **sensores fisicoquímicos** para evaluar parámetros como **turbidez, pH y temperatura**;  
-- y un **sensor de nivel de agua**, orientado a identificar variaciones que puedan indicar riesgos de desborde o inundación.
+<p align="justify">
+El sistema está compuesto por tres módulos principales:
+</p>
 
-La información recolectada por estos dispositivos será procesada y representada mediante un **mapa de calor (heatmap)**, lo que permitirá visualizar las zonas con mayor concentración de contaminación dentro del entorno estudiado. Esta representación facilitará la interpretación de datos y la identificación de áreas críticas para la toma de decisiones.
+### 🔹 Módulo 1: Captación de niebla  
+- Uso de una malla especializada donde las microgotas se adhieren.  
+- Coalescencia de gotas hasta alcanzar un tamaño suficiente.  
+- Descenso por gravedad hacia una canaleta.  
+- Almacenamiento en un depósito.  
 
-Adicionalmente, el sistema contempla la incorporación de un **módulo de biofiltración**, orientado a mejorar progresivamente la calidad del agua, así como el uso experimental de **microalgas**, tanto por su potencial en la mitigación ambiental como por su interés en la exploración de alternativas de aprovechamiento energético a pequeña escala.
+### 🔹 Módulo 2: Monitoreo ambiental  
+- Integración de sensores (ej. MQ-135 o PM2.5).  
+- Detección de gases y partículas contaminantes.  
+- Visualización del nivel de calidad del aire mediante LED o pantalla.  
 
-En conjunto, el proyecto constituye una solución integral que combina **detección, monitoreo, análisis, prevención y mitigación**, aportando al desarrollo de tecnologías accesibles para la gestión sostenible de los recursos hídricos.
+### 🔹 Módulo 3: Registro y análisis  
+- Medición del volumen de agua recolectada.  
+- Registro del tiempo de captación.  
+- Relación entre condiciones ambientales y rendimiento del sistema.  
+
+<p align="justify">
+Desde el enfoque de ingeniería, la solución integra principios de <strong>transferencia de masa (condensación)</strong>, diseño estructural optimizado (ángulo e inclinación de la malla) y sistemas electrónicos basados en sensores y microcontroladores. Esto permite no solo la captación eficiente del recurso hídrico, sino también la generación de datos para análisis y toma de decisiones.
+</p>
+
+<p align="justify">
+El valor diferencial del proyecto radica en su enfoque integral: no solo busca generar una fuente alternativa de agua, sino también garantizar que dicha agua provenga de un entorno ambiental evaluado, incorporando un criterio de calidad que no está presente en sistemas convencionales.
+</p>
+
+<p align="justify">
+En términos de impacto, esta solución representa una alternativa sostenible, de bajo costo y replicable, que puede ser implementada en comunidades con condiciones similares, contribuyendo simultáneamente a la <strong>seguridad hídrica</strong> y al <strong>monitoreo ambiental urbano</strong>.
+</p>
 
 ---
 
-## 🎯 Objetivos de Desarrollo Sostenible (ODS) 
+## 🎯 Objetivos de Desarrollo Sostenible (ODS)
 
+- 🚰 **ODS 6: Agua limpia y saneamiento**  
+  Nuestro proyecto busca desarrollar una alternativa de captación hídrica aprovechando la humedad atmosférica presente en forma de niebla o garúa, especialmente en zonas vulnerables donde el acceso al agua es limitado, intermitente o costoso.
 
-- 💧ODS 6: Agua limpia y sanamiento **
+- ❤️ **ODS 3: Salud y bienestar**  
+  La propuesta incorpora monitoreo de calidad del aire, debido a que la presencia de contaminantes atmosféricos afecta directamente la salud de la población, sobre todo en zonas urbanas expuestas al polvo y emisiones vehiculares.
 
-Este equipo busca contribuir al cumplimiento del ODS 6, el cual busca garantizar el acceso a agua limpia y su gestión sostenible, enfocándose en reducir la contaminación y proteger los ecosistemas acuáticos. En Lima, este reto es crítico porque el río Rímac abastece a más de 10 millones de personas, pero presenta altos niveles de contaminación, con metales pesados como plomo y arsénico que superan hasta 88 y 203 veces los límites permitidos, además de contaminación biológica. A nivel nacional, la situación se agrava ya que solo el 29% de las aguas residuales son tratadas, lo que contribuye al deterioro del agua. Por ello, el ODS 6 no solo busca mejorar el acceso, sino también la calidad del agua mediante soluciones que permitan monitorear, prevenir y reducir la contaminación.
-  
+- 🏗️ **ODS 9: Industria, Innovación e Infraestructura**  
+  El sistema integra diseño estructural, sensores y análisis de datos, convirtiéndose en una propuesta tecnológica orientada a la innovación y al desarrollo de soluciones funcionales para problemáticas reales.
 
-- 🏗️ **ODS 14: Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos**  
-  Aunque el ODS 14 se enfoca en ecosistemas marinos, su cumplimiento depende críticamente de la gestión de los cuerpos de agua urbanos, ya que estos actúan como los principales conductores de contaminantes hacia el mar. Al intervenir en humedales, canales y lagunas, el sistema ataca el problema en la fuente, cumpliendo primordialmente con la Meta 14.1, que busca prevenir y reducir significativamente la contaminación marina de todo tipo, especialmente la originada por actividades terrestres como los residuos sólidos.
-- 🌊 **ODS 11: Ciudades y comunidades sostenibles**  
-  Buscamos soluciones que eviten la contaminación de cuerpos de agua y promuevan el uso sostenible de recursos hídricos.  
-  📊 **Estadística relevante:** La ONU (2022) reporta que aproximadamente 8 millones de toneladas de plástico llegan a los océanos cada año, afectando la vida marina, adermas de la contaminacion de estas.  
+- 🏙️ **ODS 11: Ciudades y comunidades sostenibles**  
+  El proyecto está pensado para contextos urbanos y periurbanos de Lima, planteando una solución adaptada a las condiciones ambientales y sociales de comunidades con limitada infraestructura de servicios básicos.
+
+- 🌱 **ODS 13: Acción por el clima**  
+  La propuesta promueve el aprovechamiento sostenible de recursos atmosféricos y fomenta medidas de adaptación frente a condiciones de escasez hídrica y deterioro ambiental.
 
 ---
 
@@ -87,19 +133,19 @@ Este equipo busca contribuir al cumplimiento del ODS 6, el cual busca garantizar
 ## 📚 Proyectos similares
 
 <p align="justify">
-A continuación, se presentan proyectos y desarrollos tecnológicos relacionados con el monitoreo de la calidad del agua, la detección de contaminantes y el uso de sensores inteligentes. Estas referencias permiten contextualizar la propuesta del equipo y evidenciar el aporte diferencial del sistema planteado.
+A continuación, se presentan proyectos y desarrollos tecnológicos relacionados con la captación de niebla, el monitoreo ambiental y el uso de sensores inteligentes. Estas referencias permiten contextualizar la propuesta del equipo y evidenciar el aporte diferencial del sistema planteado.
 </p>
 
 | 📸 Imagen | 🧠 Proyecto | 📄 ¿De qué trata? | 🔗 Enlace |
 |:---:|:---|:---|:---:|
-| <img src="Recursos/Imágenes/ejemplo 1.jpg" width="150"/> | **Sistema de monitoreo de calidad de agua (Arduino)** | Prototipo basado en sensores que mide parámetros como pH, turbidez y temperatura para evaluar el estado del agua en tiempo real. | [Ver proyecto](https://github.com/Sandeepkumar-S-18/Smart_wireless_water_meter_with_Web_DB) |
-| <img src="Recursos/Imágenes/proyecto2.png" width="150"/> | **Monitoreo IoT de recursos hídricos** | Sistema que emplea sensores conectados a plataformas digitales para supervisar variables ambientales y visualizar datos de manera remota. | [Ver proyecto](https://ejemplo.com) |
-| <img src="Recursos/Imágenes/proyecto3.png" width="150"/> | **Detección de residuos flotantes en agua** | Propuesta tecnológica que utiliza sensores o visión artificial para identificar residuos sólidos en la superficie de cuerpos de agua. | [Ver proyecto](https://ejemplo.com) |
-| <img src="Recursos/Imágenes/proyecto4.png" width="150"/> | **Sistema de alerta temprana de inundaciones** | Proyecto que emplea sensores de nivel de agua para detectar incrementos críticos y prevenir desbordes o inundaciones. | [Ver proyecto](https://ejemplo.com) |
-| <img src="IMA/6-pbr.png" width="150"/> | **Biofiltración con microalgas** | Sistema experimental que utiliza microalgas para reducir contaminantes en el agua y explorar su potencial en sostenibilidad ambiental. | [Ver proyecto](https://github.com/Ahmed-EGomaa/RDI-PBR) |
+| <img src="Recursos/Imágenes/ejemplo 1.jpg" width="150"/> | **Sistema de captación de niebla** | Propuesta basada en mallas atrapanieblas para recolectar agua a partir de la humedad del ambiente en zonas con escasez hídrica. | [Ver proyecto](https://ejemplo.com) |
+| <img src="Recursos/Imágenes/proyecto2.png" width="150"/> | **Monitoreo de calidad del aire con sensores** | Sistema que emplea sensores para detectar gases y material particulado, permitiendo evaluar la calidad del aire en tiempo real. | [Ver proyecto](https://ejemplo.com) |
+| <img src="Recursos/Imágenes/proyecto3.png" width="150"/> | **Monitoreo IoT de variables ambientales** | Solución tecnológica que integra sensores conectados a plataformas digitales para registrar y visualizar datos ambientales. | [Ver proyecto](https://ejemplo.com) |
+| <img src="Recursos/Imágenes/proyecto4.png" width="150"/> | **Sistema de alerta ambiental urbana** | Proyecto que utiliza sensores y módulos electrónicos para advertir cambios críticos en condiciones del entorno. | [Ver proyecto](https://ejemplo.com) |
+| <img src="Recursos/Imágenes/proyecto5.png" width="150"/> | **Atrapanieblas con enfoque sostenible** | Diseño experimental orientado a captar agua de la niebla y proponer soluciones replicables en comunidades vulnerables. | [Ver proyecto](https://ejemplo.com) |
 
 <p align="justify">
-A diferencia de los proyectos presentados, la propuesta del equipo integra múltiples funcionalidades en un solo sistema, combinando monitoreo, detección de residuos, análisis espacial y prevención de riesgos, lo que permite una solución más completa e innovadora.
+A diferencia de los proyectos presentados, la propuesta del equipo integra en un solo sistema la captación de agua atmosférica y el monitoreo de calidad del aire, lo que permite una solución más completa, innovadora y adaptada a la realidad de Lima.
 </p>
 
 ---
@@ -108,10 +154,10 @@ A diferencia de los proyectos presentados, la propuesta del equipo integra múlt
 <p align="center">
 <img src="Recursos/Imágenes/GRUPO 2.jpg" width="600"/>
 <br>
-<em>Figura 1. Fotografía del equipo 02</em>
+<em>Figura 2. Fotografía del equipo 02</em>
 </p>
 
---- 
+---
 
 ## 👥 Integrantes del Equipo  
 
@@ -127,7 +173,5 @@ A diferencia de los proyectos presentados, la propuesta del equipo integra múlt
 
 ## 📌 Resumen Final  
 <p align="justify">
-El presente README describe la conformación del equipo, la problemática abordada y la propuesta de solución desarrollada en el marco del curso Fundamentos de Diseño. El proyecto se enfoca en el monitoreo inteligente de cuerpos de agua , integrando tecnologías de sensado, análisis de datos y visualización para identificar niveles de contaminación, detectar residuos y prevenir riesgos asociados a variaciones en el nivel del agua.
-
-Asimismo, la propuesta se articula con los Objetivos de Desarrollo Sostenible (ODS), especialmente en relación con la sostenibilidad ambiental, la innovación tecnológica y la gestión responsable de los recursos hídricos. A través de un enfoque interdisciplinario, el equipo busca desarrollar una solución viable, escalable y con potencial de aplicación en contextos reales, contribuyendo a la mejora de la calidad ambiental y al bienestar de la población.
-</p> 
+El presente README describe la conformación del equipo, la problemática abordada y la propuesta de solución desarrollada en el marco del curso Fundamentos de Diseño. El proyecto propone un sistema inteligente que capta agua de la neblina mediante una malla atrapanieblas y, simultáneamente, monitorea la calidad del aire mediante sensores ambientales. Esta solución, aplicada en zonas como Villa María del Triunfo, permite aprovechar la humedad del ambiente como fuente alternativa de agua y evaluar las condiciones del aire del que proviene, integrando sostenibilidad, tecnología e innovación en un solo sistema.
+</p>

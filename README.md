@@ -160,7 +160,7 @@ A continuación, se presentan proyectos reales relacionados con la captación de
 
 | 📸 Imagen | 🧠 Proyecto | 📄 ¿De qué trata? | 🔗 Enlace |
 |:---:|:---|:---|:---:|
-| <img src="Recursos/Imágenes/proyecto1.png" width="150"/> | **Atrapanieblas en el desierto de Atacama** | Sistema implementado en Chile que utiliza mallas para recolectar agua de la niebla, abasteciendo comunidades en zonas áridas. | [Ver proyecto](https://www.fogquest.org/projects/chile/) |
+| <img src="Recursos/Imágenes/proyecto1.png" width="150"/> | **Atrapanieblas en el desierto de Atacama** | Sistema implementado en Chile que utiliza mallas para recolectar agua de la niebla, abasteciendo comunidades en zonas áridas. | [Ver proyecto][(https://www.fogquest.org/projects/chile/](https://www.heliosmx.org/atrapanieblas-en-el-desierto-de-atacama/)) |
 | <img src="Recursos/Imágenes/proyecto2.png" width="150"/> | **Fog Water Collection System (MIT)** | Investigación del MIT que optimiza la captación de agua mediante superficies especiales inspiradas en la naturaleza. | [Ver proyecto](https://news.mit.edu/2013/efficient-fog-harvesting-0423) |
 | <img src="Recursos/Imágenes/proyecto3.png" width="150"/> | **Sistema de monitoreo de calidad del aire con sensores IoT** | Proyecto basado en sensores que mide gases y partículas en el aire en tiempo real mediante plataformas digitales. | [Ver proyecto](https://github.com/openaq/openaq) |
 
@@ -243,10 +243,6 @@ A diferencia de los proyectos presentados, nuestra propuesta integra en un solo 
 
 ---
 
-## 📌 Resumen Final  
-<p align="justify">
-El presente README describe la conformación del equipo, la problemática abordada y la propuesta de solución desarrollada en el marco del curso Fundamentos de Diseño. El proyecto propone un sistema inteligente que capta agua de la neblina mediante una malla atrapanieblas y, simultáneamente, monitorea la calidad del aire mediante sensores ambientales. Esta solución, aplicada en zonas como Villa María del Triunfo, permite aprovechar la humedad del ambiente como fuente alternativa de agua y evaluar las condiciones del aire del que proviene, integrando sostenibilidad, tecnología e innovación en un solo sistema.
-</p>
 ## 📌 Resumen Final  
 <p align="justify">
 El presente README describe la conformación del equipo, la problemática abordada y la propuesta de solución desarrollada en el marco del curso Fundamentos de Diseño. El proyecto propone un sistema inteligente que capta agua de la neblina mediante una malla atrapanieblas y, simultáneamente, monitorea la calidad del aire mediante sensores ambientales. Esta solución, aplicada en zonas como Villa María del Triunfo, permite aprovechar la humedad del ambiente como fuente alternativa de agua y evaluar las condiciones del aire del que proviene, integrando sostenibilidad, tecnología e innovación en un solo sistema.

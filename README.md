@@ -111,13 +111,11 @@ En términos de impacto, esta solución representa una alternativa sostenible, d
 
 ---
 
-- ❤️ **ODS 3: Salud y bienestar**  
-  Poner fin a las enfermedades transmitidas por el agua (Meta 3.3). Según UNICEF, en todo el mundo más de 1.000 niños menores de cinco años mueren cada día por enfermedades relacionadas con el mal manejo del agua. Por ello, incluir sensores de calidad de agua se vuelve de vital importancia. El Informe Técnico del Congreso de la República (2012) resalta que el monitoreo es indispensable para garantizar que el agua captada cumpla con los estándares de potabilidad, debido a la alta carga de sedimentos atmosféricos en la zona. De esta manera, se asegura que el recurso captado esté libre de contaminantes o patógenos antes de su consumo, previniendo enfermedades diarreicas y parasitosis.  
+- ❤️ **ODS 3: Salud y bienestar** 
 
   Monitoreo de la calidad del aire (Meta 3.9). El proyecto no solo proporciona agua, sino que también mide el entorno. Al integrar sensores de calidad del aire, se obtendrán datos críticos para prevenir enfermedades respiratorias. El ODS 3 busca reducir sustancialmente el número de muertes y enfermedades producidas por aire contaminado. El sistema actúa como una estación de alerta temprana para la salud comunitaria. Villa María del Triunfo es uno de los distritos con mayor humedad y, a menudo, con altos índices de contaminación por su cercanía a zonas industriales y tráfico. La niebla puede concentrar contaminantes; por ello, medir el aire mientras se captura el agua es vital.  
 
-  Reducción de la carga de estrés y salud mental. En pleno 2026, miles de familias en el Cono Sur de Lima, como las más de 3000 en Villa María del Triunfo, enfrentan una crónica escasez de agua que se extiende por más de dos décadas, recibiendo el recurso apenas una vez por semana y obligándolas a pagar tarifas exorbitantes por camiones cisterna. La salud no es solo la ausencia de enfermedad, sino un estado de bienestar completo. En comunidades donde el agua debe acarrearse por largas distancias —una tarea física extenuante que suele recaer en mujeres y niños— este sistema reduce el agotamiento físico y el estrés asociado a la inseguridad hídrica. El bienestar mejora cuando la comunidad tiene autonomía sobre su recurso.
-
+  Reducción de la carga de estrés y salud mental.En pleno 2026, la escasez hídrica en el Cono Sur de Lima obliga a más de 3,000 familias en VMT a depender de camiones cisterna con costos excesivos y frecuencias mínimas. La salud, entendida como un estado de bienestar integral, se ve afectada por la carga física y mental de gestionar el agua. Al automatizar la recolección para áreas verdes y huertos, se reduce el agotamiento físico (especialmente en mujeres y niños) y el estrés económico. La autonomía sobre el recurso hídrico y la creación de espacios verdes saludables transforman el entorno social, promoviendo una mejor salud mental y cohesión comunitaria.
 ---
 
 - 🏗️ **ODS 9: Industria, innovación e infraestructura**  

@@ -65,7 +65,7 @@ El presente proyecto propone el desarrollo de un <strong>sistema inteligente de 
 </p>
 
 <p align="justify">
-La solución se basa en el aprovechamiento de la humedad atmosférica en forma de neblina o garúa, la cual es transformada en agua mediante un sistema de captación física. A diferencia de los sistemas tradicionales de atrapanieblas, esta propuesta incorpora un componente tecnológico que permite evaluar la calidad del aire, generando información ambiental relevante.
+La solución se basa en el aprovechamiento de la humedad atmosférica en forma de neblina o garúa, la cual es transformada en agua mediante un sistema de captación física. A diferencia de los sistemas tradicionales de atrapanieblas, esta propuesta incorpora un componente tecnológico que permite evaluar la calidad del aire y la calidad del agua, generando información ambiental relevante.
 </p>
 
 <p align="justify">
@@ -107,7 +107,7 @@ En términos de impacto, esta solución representa una alternativa sostenible, d
 - 🚰 **ODS 6: Agua limpia y saneamiento**  
   Busca garantizar la disponibilidad y gestión sostenible del agua, promoviendo no solo el acceso al agua potable, sino también su uso eficiente en actividades productivas como la agricultura. Este objetivo es fundamental, ya que el sector agrícola consume aproximadamente el 70% del agua dulce a nivel mundial, lo que hace necesario implementar sistemas de riego más eficientes y sostenibles . En el Perú, aún existen importantes brechas en el acceso y gestión del agua: solo el 49,4% de la población cuenta con agua potable gestionada de forma segura , lo que evidencia la urgencia de optimizar el uso del recurso hídrico, especialmente en contextos de escasez.
   
-  En distritos como Villa María del Triunfo, donde muchas familias dependen de camiones cisterna y enfrentan altos costos por el agua, resulta poco sostenible utilizar agua potable para el riego agrícola. En este contexto, tu proyecto se alinea directamente con el ODS 6 al proponer un sistema de riego agrícola basado en una fuente alternativa de agua, lo que permite reducir la presión sobre el agua potable, mejorar la eficiencia en su uso y promover prácticas sostenibles. De esta manera, se contribuye no solo a la conservación del recurso hídrico, sino también al desarrollo de la agricultura urbana y a la mejora de la calidad de vida en comunidades vulnerables.
+  En distritos como Villa María del Triunfo, donde muchas familias dependen de camiones cisterna y enfrentan altos costos por el agua, resulta poco sostenible utilizar agua potable para el riego agrícola. En este contexto, nuestro proyecto se alinea directamente con el ODS 6 al proponer un sistema de riego agrícola basado en una fuente alternativa de agua, lo que permite reducir la presión sobre el agua potable, mejorar la eficiencia en su uso y promover prácticas sostenibles. De esta manera, se contribuye no solo a la conservación del recurso hídrico, sino también al desarrollo de la agricultura urbana y a la mejora de la calidad de vida en comunidades vulnerables.
 
 ---
 

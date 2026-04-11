@@ -78,14 +78,16 @@ CN110144994A
 **🌐 Página:**  
 Espacenet  
 
+**🔗 Link:**  
+https://worldwide.espacenet.com/patent/search?q=pn%3DCN110144994A 
+
 ### 📝 Resumen
 La patente describe un dispositivo de captación de niebla que utiliza una estructura tipo malla inspirada en una telaraña para atrapar microgotas presentes en el aire. Estas gotas son conducidas hacia un sistema de almacenamiento, donde el agua recolectada pasa por un proceso de purificación en varias etapas. En una primera fase, el sistema incorpora un proceso de filtración multicapa, utilizando materiales como grafeno poroso tridimensional y carbón activado, los cuales permiten retener partículas y eliminar impurezas mediante procesos de adsorción. Posteriormente, el agua es sometida a un tratamiento térmico, en el cual se activa un calentador eléctrico que eleva la temperatura hasta alcanzar el punto de ebullición, permitiendo la eliminación de microorganismos como bacterias y virus. Finalmente, el sistema cuenta con un mecanismo de control automático, mediante sensores que detectan el punto de ebullición, asegurando que el agua solo sea liberada cuando ha alcanzado condiciones adecuadas de seguridad.
 
 ### 🔗 Relación con el proyecto
 Se relaciona con el proyecto en el uso de una estructura de malla para la captación de niebla y en la incorporación de procesos de mejora de la calidad del agua. Sin embargo, a diferencia de la patente, el sistema propuesto plantea un enfoque más simple basado en filtración física, sin incluir tratamiento térmico, debido a que el agua está destinada a riego y no a consumo humano. Asimismo, el proyecto incorpora sensores para el monitoreo ambiental, lo cual no está presente en la patente.
 
-**🔗 Link:**  
-https://worldwide.espacenet.com/patent/search?q=pn%3DCN110144994A  
+ 
 
 ### 🖼️ Imagen
 <p align="center">

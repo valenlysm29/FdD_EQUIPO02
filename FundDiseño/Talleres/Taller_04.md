@@ -24,7 +24,7 @@ La presente invención se refiere a un atrapanieblas autosustentable diseñado p
 Se relaciona directamente con el proyecto en la integración de la captación de niebla y su uso en sistemas de riego, permitiendo aprovechar el agua atmosférica como recurso hídrico. Sin embargo, a diferencia de esta propuesta, el proyecto incorpora sensores para el monitoreo de la calidad del agua y del ambiente, así como un sistema de control inteligente basado en IoT, lo cual representa una mejora tecnológica.
 
 **Imagen:**  
-![](Recursos/Imágenes/PATENTE_01.png)
+![](../Recursos/Imágenes/PATENTE_01.png)
 
 ---
 
@@ -50,7 +50,7 @@ La invención consiste en un dispositivo que recoge el agua contenida en la nieb
 Se relaciona directamente con el módulo de captación de niebla, ya que emplea principios similares de recolección de microgotas; sin embargo, no incorpora sistemas de monitoreo ambiental ni sensores, ni un sistema de filtración simple, lo cual representa una mejora propuesta en el presente proyecto.
 
 **Imagen:**  
-![](Recursos/Imágenes/PATENTE_02.png)
+![](../Recursos/Imágenes/PATENTE_02.png)
 
 ---
 
@@ -76,7 +76,7 @@ La patente describe un dispositivo de captación de niebla que utiliza una estru
 Se relaciona con el proyecto en el uso de una estructura de malla para la captación de niebla y en la incorporación de procesos de mejora de la calidad del agua. Sin embargo, a diferencia de la patente, el sistema propuesto plantea un enfoque más simple basado en filtración física, sin incluir tratamiento térmico, debido a que el agua está destinada a riego y no a consumo humano. Asimismo, el proyecto incorpora sensores para el monitoreo ambiental, lo cual no está presente en la patente.
 
 **Imagen:**  
-![](Recursos/Imágenes/PATENTE_03.png)
+![](../Recursos/Imágenes/PATENTE_03.png)
 
 ---
 
@@ -102,8 +102,8 @@ Se proporciona un sistema de monitoreo de la calidad del agua, que incluye vario
 Se relaciona directamente con el proyecto en la incorporación de sensores para el monitoreo de parámetros del agua y análisis en tiempo real. Sin embargo, el proyecto integra adicionalmente la captación de agua de niebla y está orientado al riego automatizado.
 
 **Imagen:**  
-![](Recursos/Imágenes/PATENTE_04_A.png)
-![](Recursos/Imágenes/PATENTE_04_Bpng)
+![](../Recursos/Imágenes/PATENTE_04_A.png)
+![](../Recursos/Imágenes/PATENTE_04_Bpng)
 ---
 
 ### 🔹 Patente 5
@@ -128,7 +128,7 @@ El dispositivo integrado para riego inteligente basado en IoT y energía renovab
 Se relaciona con el proyecto en la automatización del riego y uso de sensores. Sin embargo, el proyecto incorpora captación de niebla y monitoreo de calidad del agua.
 
 **Imagen:**  
-![](Recursos/Imágenes/PATENTE_05.png)
+![](../Recursos/Imágenes/PATENTE_05.png)
 
 ---
 
@@ -154,6 +154,6 @@ Dispositivo diseñado para monitorear continuamente la temperatura y humedad del
 Se relaciona con el proyecto en la optimización del riego mediante sensores. El proyecto amplía esta función integrando captación de niebla y monitoreo de calidad del agua.
 
 **Imagen:**  
-![](Recursos/Imágenes/PATENTE_06.png)
+![](../Recursos/Imágenes/PATENTE_06.png)
 
 ---

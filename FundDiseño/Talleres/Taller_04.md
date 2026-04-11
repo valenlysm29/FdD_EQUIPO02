@@ -44,14 +44,18 @@ WO2023230244A1
 **📅 Año de publicación:**  
 2023  
 
+**🌐 Página:**  
+Espacenet  
+
+**🔗 Link:**  
+https://worldwide.espacenet.com/patent/search/family/088919907/publication/WO2023230244A1?q=pn%3DWO2023230244A1  
+
 ### 📝 Resumen
 La invención consiste en un dispositivo que recoge el agua contenida en la niebla y la canaliza hacia un punto de salida. El sistema cuenta con un eje central de forma alargada que actúa como columna vertebral del conjunto y como conductor del agua hacia abajo. A lo largo de este eje se distribuyen múltiples estructuras filiformes denominadas tricomas, cuya función es atrapar las microgotas suspendidas en la niebla al entrar en contacto con ellas. Los espacios que quedan entre tricoma y tricoma no son simples huecos, sino que actúan como canales capilares que absorben y fusionan las gotas individuales hasta formar hilos de agua continuos. Estos hilos fluyen a lo largo del eje central aprovechando la gravedad, recorren toda la longitud del dispositivo y convergen finalmente en una salida principal donde el agua ya puede ser recolectada o aprovechada. Método y sistema para la recolección de neblina y la eliminación de bruma. En síntesis, el sistema replica de forma artificial el mecanismo que utilizan ciertas plantas y superficies naturales para captar la humedad del aire, integrando la captación, el transporte capilar y la recolección en una sola estructura compacta.
 
 ### 🔗 Relación con el proyecto
 Se relaciona directamente con el módulo de captación de niebla, ya que emplea principios similares de recolección de microgotas; sin embargo, no incorpora sistemas de monitoreo ambiental ni sensores, ni un sistema de filtración simple, lo cual representa una mejora propuesta en el presente proyecto.
 
-**🔗 Link:**  
-https://worldwide.espacenet.com/patent/search/family/088919907/publication/WO2023230244A1?q=pn%3DWO2023230244A1  
 
 ### 🖼️ Imagen
 <p align="center">

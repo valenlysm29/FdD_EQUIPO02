@@ -1,6 +1,17 @@
-[📄Ir al documento](https://docs.google.com/document/d/1KE3PtH31DLXYr63FYQYzETe2vs5omj35mvZSYd1JYWw/edit?tab=t.0)
+## 🚀 Presentación del Proyecto
 
-[🎨Ver presentación](https://canva.link/n6012mmut4ebm6i)
+<p align="center">
+  <a href="https://docs.google.com/document/d/1KE3PtH3lDLxYr63FYQYzETe2vs5omj35mvZSyd1JYwM/edit" target="_blank">
+    <img src="https://img.shields.io/badge/Documento-Google%20Docs-green?style=for-the-badge&logo=google-docs">
+  </a>
+  <a href="https://canva.link/n60l2mmut4ebm6i" target="_blank">
+    <img src="https://img.shields.io/badge/Presentación-Canva-purple?style=for-the-badge&logo=canva">
+  </a>
+</p>
+
+<p align="center">
+  Accede al documento técnico y a la presentación del proyecto YAKUYURA.
+</p>
 
 # 🚰 YAKUYURA: del aire a la vida
 

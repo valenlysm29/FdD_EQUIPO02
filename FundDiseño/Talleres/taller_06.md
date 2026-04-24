@@ -1,8 +1,8 @@
-# MATRIZ DE INVESTIGACIÓN DE ESCRITORIO
+# MATRIZ DE DESK RESEARCH
 
-**PROBLEMÁTICA:** ¿Cómo diseñar un sistema de captación de niebla eficiente, de bajo costo y adaptable...?
+**PROBLEMÁTICA:** ¿Cómo diseñar un sistema de captación de niebla eficiente, de bajo costo y adaptable a las condiciones climáticas de Villa María del Triunfo, que permita obtener agua apta para riego y que integre monitoreo ambiental para optimizar su funcionamiento?
 
-| N° | Fuente | Institución | Año | Referencia | Tecnología | Requisitos | Limitación | Función | Aplicación |
+| N° | Fuente | Autor/Institución | Año | Referencia | Estado de Tecnología encontrada | Exigencia o requisito identificado | Restricción o limitación | Función principal | Aplicación al proyecto |
 |:--:|:---|:---|:--:|:---|:---|:---|:---|:---|:---|
 | 1 | DS 004-2017 | MINAM | 2017 | [Link](https://www.gob.pe/institucion/minam/normas-legales/3671-004-2017-minam) | Normativa ECA Agua | pH: 6.5–8.5<br>Cond: 2500–5000 µS/cm; Control de calidad física (relacionada a turbidez) | No incluye directamente turbidez ni salinidad como parámetro explícito en todos los casos; requiere interpretación mediante conductividad y sólidos | No incluye turbidez como parámetro directo; la calidad física se evalúa indirectamente | Permite definir rangos aceptables para sensores de pH, salinidad (conductividad) y turbidez en el sistema atrapanieblas |
 | 2 | ISOs | ISO | 2008 | [ISO 7027](https://www.iso.org/obp/ui/#iso:std:iso:7027:-1:ed-1:v1:en) | Métodos estandarizados para medición de pH, conductividad y turbidez | Medición precisa mediante sensores calibrados | No establecen límites de calidad | Estandarizar medición de parámetros físico-químicos | Validar y calibrar sensores del sistema atrapaniebla |

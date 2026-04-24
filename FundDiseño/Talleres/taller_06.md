@@ -1,6 +1,6 @@
 ## MATRIZ DE DESK RESEARCH
 
-**Proyecto:** Sistema de captación de niebla para riego con monitoreo de calidad de agua  
+**Proyecto:** YAKUYURA - Sistema de captación de niebla para riego con monitoreo de calidad de agua  
 **Ubicación:** Villa María del Triunfo, Lima – Perú  
 
 **Problematica:**  

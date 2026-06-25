@@ -219,7 +219,7 @@ En términos de impacto, esta solución representa una alternativa sostenible, d
 | <img src="Recursos/Imágenes/Imágenes/Mafer.jpeg" height="110" style="width:85px; object-fit: cover; border-radius: 8px; border: 1px solid #ccc;"/> | **Perez Salvatierra, María Fernanda** | 🔬 Investigación | 🌍 Gestión ambiental, 🌱 desarrollo sostenible, 📊 impacto ambiental | 📩 [maria.perez.salvatierra@upch.pe](mailto:maria.perez.salvatierra@upch.pe) |
 | <img src="Recursos/Imágenes/Imágenes/Ayme Canchari.jpeg" height="110" style="width:85px; object-fit: cover; border-radius: 8px; border: 1px solid #ccc;"/> | **Canchari de la Cruz, Ayme** | 🎨 Diseño | 🧩 prototipos, ✨ innovación, 🎯 creatividad aplicada | 📩 [ayme.canchari@upch.pe](mailto:ayme.canchari@upch.pe) |
 | <img src="Recursos/Imágenes/Imágenes/Jose Antonio.jpeg" height="110" style="width:85px; object-fit: cover; border-radius: 8px; border: 1px solid #ccc;"/> | **Mamani Tello, Jose Antonio** | 📝 Documentación | 📄 procesos, 📈 mejora continua, ✍️ redacción técnica | 📩 [jose.mamani.t@upch.pe](mailto:jose.mamani.t@upch.pe) |
-| <img src="Recursos/Imágenes/Imágenes/rosita.jpeg" height="110" style="width:85px; object-fit: cover; border-radius: 8px; border: 1px solid #ccc;"/> | **Espinola Abanto, Rosita Dayana** | 💻 Programación | 👩‍💻 programación, 📊 datos, 🧠 simulación y sistemas robóticos | 📩 [rosita.espinola@upch.pe](mailto:rosita.espinola@upch.pe) |
+| <img src="Recursos/Imágenes/Imágenes/Rosita Espinola.jpeg" height="110" style="width:85px; object-fit: cover; border-radius: 8px; border: 1px solid #ccc;"/> | **Espinola Abanto, Rosita Dayana** | 💻 Programación | 👩‍💻 programación, 📊 datos, 🧠 simulación y sistemas robóticos | 📩 [rosita.espinola@upch.pe](mailto:rosita.espinola@upch.pe) |
 
 ---
 

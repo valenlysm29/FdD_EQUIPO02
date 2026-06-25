@@ -1,27 +1,23 @@
-# Tesis de Apoyo 1
+## Descripción y Aporte de Tesis
 
-## Nombre de la Tesis
-
-Efficiency of Water Collection for Three Types of Mesh Trappers in Rural Highlands of the Northern Highlands of Peru
+### 1. Tesis – Universidad Nacional Agraria La Molina
 
 ## Descripción
 
-Esta investigación evalúa la eficiencia de captación de agua de niebla mediante tres tipos de mallas atrapanieblas: malla Raschel, malla mosquitera y malla metálica. El estudio fue desarrollado en zonas altoandinas del norte del Perú con el objetivo de determinar cuál de estas alternativas presenta un mejor rendimiento en la recolección de agua proveniente de la niebla. Los resultados permiten identificar la influencia del material de la malla sobre la cantidad de agua recolectada y su potencial aplicación en comunidades con escasez de recursos hídricos.
+Esta tesis estudia la problemática de la escasez de recursos hídricos en zonas rurales mediante el análisis de sistemas de captación de agua de niebla. Se evalúan factores determinantes como la velocidad del viento, la densidad de la niebla, la ubicación geográfica y el diseño estructural de los colectores, los cuales influyen directamente en la eficiencia del sistema.
 
 ## Aporte al Proyecto
 
-Esta tesis proporciona información técnica para seleccionar el tipo de malla más adecuada para el sistema atrapanieblas del proyecto. Asimismo, aporta evidencia experimental sobre la eficiencia de captación de agua en condiciones geográficas similares a las del Perú, permitiendo fundamentar el diseño de la estructura y optimizar el rendimiento del sistema.
+Aporta una base técnica fundamental para el diseño del sistema atrapanieblas, permitiendo definir criterios de optimización en la estructura y ubicación de los paneles. Además, respalda la viabilidad del proyecto como una solución sostenible y de bajo costo para zonas con escasez de agua, e introduce la posibilidad de integrar tecnología IoT para el monitoreo en tiempo real.
 
 ---
 
-# Tesis de Apoyo 2
-
-## Nombre de la Tesis
-
-Water Harvesting Through Fog Collectors: A Review of Conceptual, Experimental and Operational Aspects
+### 2. Tesis – Universidad Ricardo Palma
 
 ## Descripción
 
-Esta investigación presenta una revisión del estado del arte de los sistemas de captación de agua mediante atrapanieblas. Analiza aspectos conceptuales, experimentales y operativos relacionados con el diseño, funcionamiento, mantenimiento y sostenibilidad de los colectores de niebla. Además, examina distintas tecnologías y materiales utilizados en proyectos desarrollados alrededor del mundo para obtener agua en regiones con limitaciones de recursos hídricos.
+Esta investigación analiza tecnologías de captación de agua atmosférica como alternativa frente a la escasez hídrica, enfocándose en sistemas atrapanieblas para la recolección de agua mediante la condensación de la humedad ambiental. Se evalúan distintos materiales y configuraciones estructurales, determinando que el rendimiento depende principalmente del tipo de malla y del diseño del colector.
 
 ## Aporte al Proyecto
+
+Aporta información técnica clave sobre la selección de materiales, destacando la eficiencia de mallas como la Raschel en la captación de agua. Asimismo, refuerza la viabilidad de los sistemas atrapanieblas como solución sostenible y complementa el proyecto al permitir la integración de sensores e IoT para optimizar su desempeño en tiempo real.

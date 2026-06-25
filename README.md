@@ -143,7 +143,7 @@ En términos de impacto, esta solución representa una alternativa sostenible, d
 
 ## 📸 Fotografía del prototipo
 <p align="center">
-  <img src="Recursos/Imágenes/atrapanieblas.png" width="600"/>
+  <img src="Recursos/Imágenes/Imágenes/atrapanieblas.png" width="600"/>
   <br>
   <em>Figura 1. Representación del prototipo propuesto</em>
 </p>
@@ -204,7 +204,7 @@ En términos de impacto, esta solución representa una alternativa sostenible, d
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img src="Recursos/Imágenes/GRUPO 2.jpg" width="600"/>
+<img src="Recursos/Imágenes/Imágenes/Foto grupal.jpg" width="600"/>
 <br>
 <em>Figura 2. Fotografía del equipo 02</em>
 </p>
@@ -215,11 +215,11 @@ En términos de impacto, esta solución representa una alternativa sostenible, d
 
 | 📸 Foto | 👤 Nombre | 🎓 Rol | 💡 Intereses | 📧 Correo |
 |:---:|:---|:---:|:---|:---|
-| <img src="Recursos/Imágenes/valeria.jpg" height="110" style="width:85px; object-fit: cover; border-radius: 8px; border: 1px solid #ccc;"/> | **Rodriguez Zavaleta, Valeria Nicole** | 👑 Líder del equipo | 🌱 Innovación social, 💡 liderazgo, ♻️ sostenibilidad | 📩 [valeria.rodriguez@upch.pe](mailto:valeria.rodriguez@upch.pe) |
-| <img src="Recursos/Imágenes/Mafer.jpg" height="110" style="width:85px; object-fit: cover; border-radius: 8px; border: 1px solid #ccc;"/> | **Perez Salvatierra, María Fernanda** | 🔬 Investigación | 🌍 Gestión ambiental, 🌱 desarrollo sostenible, 📊 impacto ambiental | 📩 [maria.perez.salvatierra@upch.pe](mailto:maria.perez.salvatierra@upch.pe) |
-| <img src="Recursos/Imágenes/Ayme.jpeg" height="110" style="width:85px; object-fit: cover; border-radius: 8px; border: 1px solid #ccc;"/> | **Canchari de la Cruz, Ayme** | 🎨 Diseño | 🧩 prototipos, ✨ innovación, 🎯 creatividad aplicada | 📩 [ayme.canchari@upch.pe](mailto:ayme.canchari@upch.pe) |
-| <img src="Recursos/Imágenes/Jose Antonio.jpg" height="110" style="width:85px; object-fit: cover; border-radius: 8px; border: 1px solid #ccc;"/> | **Mamani Tello, Jose Antonio** | 📝 Documentación | 📄 procesos, 📈 mejora continua, ✍️ redacción técnica | 📩 [jose.mamani.t@upch.pe](mailto:jose.mamani.t@upch.pe) |
-| <img src="Recursos/Imágenes/rosita.jpeg" height="110" style="width:85px; object-fit: cover; border-radius: 8px; border: 1px solid #ccc;"/> | **Espinola Abanto, Rosita Dayana** | 💻 Programación | 👩‍💻 programación, 📊 datos, 🧠 simulación y sistemas robóticos | 📩 [rosita.espinola@upch.pe](mailto:rosita.espinola@upch.pe) |
+| <img src="Recursos/Imágenes/Imágenes/valeria.jpg" height="110" style="width:85px; object-fit: cover; border-radius: 8px; border: 1px solid #ccc;"/> | **Rodriguez Zavaleta, Valeria Nicole** | 👑 Líder del equipo | 🌱 Innovación social, 💡 liderazgo, ♻️ sostenibilidad | 📩 [valeria.rodriguez@upch.pe](mailto:valeria.rodriguez@upch.pe) |
+| <img src="Recursos/Imágenes/Imágenes/Mafer.jpg" height="110" style="width:85px; object-fit: cover; border-radius: 8px; border: 1px solid #ccc;"/> | **Perez Salvatierra, María Fernanda** | 🔬 Investigación | 🌍 Gestión ambiental, 🌱 desarrollo sostenible, 📊 impacto ambiental | 📩 [maria.perez.salvatierra@upch.pe](mailto:maria.perez.salvatierra@upch.pe) |
+| <img src="Recursos/Imágenes/Imágenes/Ayme Canchari.jpeg" height="110" style="width:85px; object-fit: cover; border-radius: 8px; border: 1px solid #ccc;"/> | **Canchari de la Cruz, Ayme** | 🎨 Diseño | 🧩 prototipos, ✨ innovación, 🎯 creatividad aplicada | 📩 [ayme.canchari@upch.pe](mailto:ayme.canchari@upch.pe) |
+| <img src="Recursos/Imágenes/Imágenes/Jose Antonio.jpg" height="110" style="width:85px; object-fit: cover; border-radius: 8px; border: 1px solid #ccc;"/> | **Mamani Tello, Jose Antonio** | 📝 Documentación | 📄 procesos, 📈 mejora continua, ✍️ redacción técnica | 📩 [jose.mamani.t@upch.pe](mailto:jose.mamani.t@upch.pe) |
+| <img src="Recursos/Imágenes/Imágenes/rosita.jpeg" height="110" style="width:85px; object-fit: cover; border-radius: 8px; border: 1px solid #ccc;"/> | **Espinola Abanto, Rosita Dayana** | 💻 Programación | 👩‍💻 programación, 📊 datos, 🧠 simulación y sistemas robóticos | 📩 [rosita.espinola@upch.pe](mailto:rosita.espinola@upch.pe) |
 
 ---
 
